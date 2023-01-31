@@ -1,0 +1,21 @@
+1. Problem statement : Covid 19 vaccination progress
+ ( we'll take the dataset of no of people who got vaccinated last year and then we'll predict in next year how many will be vaccinated)
+ 
+2. choosing this scenario because there are no research papers for this.
+   there are few articles about this but its not published yet.
+
+We can do this in 2 ways:
+
+Applying ML algo:-
+
+1. we take the dataset 
+2. then do data cleaning
+3. apply any 2 machine learning algorithm 
+4. and then compare the performance of both 
+
+
+Applying time series forecasting:-
+
+1. we take the dataset 
+2. then do data cleaning
+3. apply any time series forecasting algorithm 
